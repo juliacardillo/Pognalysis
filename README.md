@@ -1,5 +1,5 @@
 # About the Project:
-Advisor: Dr. Kier Hanratty
+### Advisor: Dr. Kier Hanratty
 _Pognalysis: An Analysis of Gender and Language on Twitch.tv_ is my Pforzheimer Honors College undergraduate thesis. I presented this project at the 2022 Society of Fellows meeting, and received a Certificate of Excellence in Academic Research from the Economics department at Pace. It can be downloaded and viewed on the Pace Digital Commons [here.](https://digitalcommons.pace.edu/honorscollege_theses/360/)
 
 # Abstract: 
